@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sensgithub
-- 👀 Interested in databases, automation, scripting, etc. 
+- 👀 Interested in databases, automation, scripting, containerisation etc. 
 - 🌱 Passionate learner with a thirst for knowledge!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/mwlite/in/svetlan-nikolov-0323b2238) | svetlan.nikolov@yahoo.com
 
